@@ -1,1 +1,1 @@
-print("real, barca i juventus")
+print("real, barca")
